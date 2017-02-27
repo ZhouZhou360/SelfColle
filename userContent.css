@@ -31,15 +31,6 @@ sup {
 	top: -0.5em;
 }
 
-legend {
-	box-sizing: border-box;
-	color: inherit;
-	display: table;
-	max-width: 100%;
-	padding: 0;
-	white-space: normal;
-}
-
 fieldset {
 	border: 1.5px solid silver;
 	margin: 0 2px;
