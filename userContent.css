@@ -1,13 +1,13 @@
 body, button, input, optgroup, select, textarea {
 	margin: 0;
 	font-size: 1em;
-	font-family: sans-serif !important;
+	font-family: sans-serif;
 	line-height: 1.15;
 }
 
 pre, code, kbd, samp, var {
 	font-size: 1em;
-	font-family: Consolas, monospace, sans-serif;
+	font-family: Consolas, monospace, sans-serif !important;
 }
 
 abbr[title] {
