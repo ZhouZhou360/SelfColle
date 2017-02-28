@@ -7,7 +7,7 @@ body, button, input, optgroup, select, textarea {
 
 pre, code, kbd, samp, var {
 	font-size: 1em;
-	font-family: Consolas, monospace, sans-serif !important;
+	font-family: Consolas, monospace, sans-serif;
 }
 
 abbr[title] {
