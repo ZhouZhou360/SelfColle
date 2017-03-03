@@ -27,6 +27,12 @@ fieldset {
 	padding: .35em .625em .75em;
 }
 
+abbr[title] {
+	border-bottom: 0;
+	text-decoration: underline;
+	text-decoration: underline dotted;
+}
+
 /* font */
 
 body, button, input, optgroup, select, textarea {
@@ -39,12 +45,6 @@ body, button, input, optgroup, select, textarea {
 pre, code, kbd, samp, var {
 	font-size: 1em;
 	font-family: Consolas, monospace, sans-serif !important;
-}
-
-abbr[title] {
-	border-bottom: 0;
-	text-decoration: underline;
-	text-decoration: underline dotted;
 }
 
 /* better */
