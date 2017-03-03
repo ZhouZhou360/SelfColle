@@ -4,7 +4,7 @@ Thanks:
 https://github.com/necolas/normalize.css
 */
 
-/* Fix */
+/* basic */
 
 sub, sup {
 	font-size: 75%;
@@ -27,7 +27,7 @@ fieldset {
 	padding: .35em .625em .75em;
 }
 
-/* Font */
+/* font */
 
 body, button, input, optgroup, select, textarea {
 	margin: 0;
@@ -47,7 +47,7 @@ abbr[title] {
 	text-decoration: underline dotted;
 }
 
-/* My */
+/* better */
 
 ::selection {
 	color: black !important;
@@ -82,7 +82,3 @@ body {
 	body > :not(:last-child), body > :last-child > * > * {
 		-ms-overflow-style: scrollbar;
 	}
-
-html.translated-ltr > body {
-	overflow-x: hidden !important;
-}
