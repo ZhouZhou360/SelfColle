@@ -2,3 +2,12 @@
 
 - **Collection for myself**: I put various things in this repository.
 - **License**: CC BY-SA
+
+---
+
+## Favourite
+
+### Composers
+- Grand Thaw -> Rigel Theatre
+
+TODO
