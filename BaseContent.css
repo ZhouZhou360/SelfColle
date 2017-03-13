@@ -36,7 +36,6 @@ abbr[title] {
 /* font */
 
 body, button, input, optgroup, select, textarea {
-	margin: 0;
 	font-size: 1em;
 	font-family: sans-serif;
 	line-height: 1.15;
